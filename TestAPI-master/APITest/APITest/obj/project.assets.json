@@ -5345,11 +5345,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shults.b\\Downloads\\TestAPI-master\\TestAPI-master\\APITest\\APITest\\APITest.csproj",
+      "projectUniqueName": "C:\\Users\\shults.b\\Documents\\API\\TestAPI-master\\APITest\\APITest\\APITest.csproj",
       "projectName": "APITest",
-      "projectPath": "C:\\Users\\shults.b\\Downloads\\TestAPI-master\\TestAPI-master\\APITest\\APITest\\APITest.csproj",
+      "projectPath": "C:\\Users\\shults.b\\Documents\\API\\TestAPI-master\\APITest\\APITest\\APITest.csproj",
       "packagesPath": "C:\\Users\\shults.b\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shults.b\\Downloads\\TestAPI-master\\TestAPI-master\\APITest\\APITest\\obj\\",
+      "outputPath": "C:\\Users\\shults.b\\Documents\\API\\TestAPI-master\\APITest\\APITest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shults.b\\AppData\\Roaming\\NuGet\\NuGet.Config",
