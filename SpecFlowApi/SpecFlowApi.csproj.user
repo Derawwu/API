@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Hooks\Hooks1.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\DELETE\DeleteResponseStatusSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\DELETE\DeleteResponseJsonSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\GET by id\GetEmployeeByIdResponseStatusSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\GET by id\GetEmployeeByIdJsonSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\GET by id\GetUnexistingEmployeeByIdResponseStatusSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\GET\GetAllEmployeesStatusCodeSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\GET\GetAllEmployeesJson.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\POST\CreateNewEmployeeResponseStatusSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\POST\CreateNewEmployeeJsonSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\POST\CreateEmployeeByIdResponseStatusSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\POST\CreateEmployeeByIdJsonSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\PUT\UpdateAnEmployeeJsonSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Steps\PUT\UpdateAnEmployeeResponseStatusSteps.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
